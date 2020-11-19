@@ -1,0 +1,16 @@
+section {
+  background-color: yellow;
+}
+
+section h1 {
+  color: green;
+}
+
+section .test {
+  color: pink;
+}
+
+section .test:hover {
+  color: green;
+}
+/*# sourceMappingURL=style.css.map */

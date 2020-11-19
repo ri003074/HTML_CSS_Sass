@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+html{
+    /*
+        主要ブラウザのデフォルトフォントサイズは16px
+        16px * 62.5px は、10px
+        他のところで1.2remと記述すると、10px * 1.2 = 12px
+    */
+    font-size:62.5%;
+}
+
+body{
+    color:#333;
+}
+
+.header{
+    width:100%;
+    padding:28px 0 10px; 
+    background:url('../images/bg-header.gif') repeat-x;
+    box-shadow: 0 0 10px 1px #e3e3e3;
+}
+
+.logo{
+    width:225px;
+    height:56px;
+    margin:0 auto;
+    background: url('../images/logo.png') no-repeat;
+    overflow: hidden;
+    text-indent: 100%;
+    white-space: nowrap;;
+}
+
+.wrapper{
+    width:970px;
+}
+
+.clearfix::after{
+    content:'';
+    display:block;
+    clear:both;
+}
+
+.main{
+    display:block;
+    float:left;
+    width:660px;
+}
+
+.sidemenu{
+    float:right;
+    width:275px;
+}
+
+.footer{
+    width:100%;
+}

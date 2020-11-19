@@ -1,0 +1,13 @@
+
+section {
+    background-color: yellow;
+        h1{ 
+            color:green;
+        }
+        .test{
+            color:pink;
+            &:hover{
+                color:green;
+            }
+        }
+}
