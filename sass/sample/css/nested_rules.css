@@ -1,0 +1,12 @@
+#main section {
+  margin-bottom: 100px;
+}
+
+#main section h1 {
+  font-size: 240%;
+}
+
+#main section p.notes {
+  font-size: 120px;
+}
+/*# sourceMappingURL=nested_rules.css.map */

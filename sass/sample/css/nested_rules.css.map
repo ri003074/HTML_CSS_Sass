@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,KADC,CACD,OAAO,CAAC;EACJ,aAAa,EAAE,KAAK;CAOvB;;AATL,AAGQ,KAHH,CACD,OAAO,CAEH,EAAE,CAAA;EACE,SAAS,EAAC,IAAI;CACjB;;AALT,AAMQ,KANH,CACD,OAAO,CAKH,CAAC,AAAA,MAAM,CAAA;EACH,SAAS,EAAE,KAAK;CACnB",
+    "sources": [
+        "nested_rules.scss"
+    ],
+    "names": [],
+    "file": "nested_rules.css"
+}

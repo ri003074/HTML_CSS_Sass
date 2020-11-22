@@ -1,16 +1,4 @@
-section {
-  background-color: yellow;
-}
-
-section h1 {
-  color: green;
-}
-
-section .test {
-  color: pink;
-}
-
-section .test:hover {
-  color: green;
+.app {
+  font-weight: bold;
 }
 /*# sourceMappingURL=style.css.map */
